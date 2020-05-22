@@ -5,3 +5,6 @@
 * The marketing department is particularly interested in how the churn compares between two segments of users. They provide me with a dataset containing subscription data for users who were acquired through two distinct channels. 
 
 * Codeflix requires a minimum subscription length of 31 days, so a user can never start and end their subscription in the same month.
+
+
+Check the churn-rates.pdf file for the results
